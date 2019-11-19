@@ -1,6 +1,7 @@
 # movie_kaggle
 
 #tips:
+Data is downloaded from https://www.kaggle.com/tmdb/tmdb-movie-metadata/discussion.
 1. get movie data from kaggle 
 2. plot on movie genres 
 3. text_cnn to predict genre based on title, cast, decription ... 
